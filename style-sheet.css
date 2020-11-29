@@ -117,6 +117,12 @@ h1 {
     object-fit: contain;
 }
 
+.Break{
+    background-color: thistle;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
 /*About page*/
 .column-about-us {
     float: left;
