@@ -40,11 +40,6 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-#carouselExampleIndicators img {
-    width: 100%;  /* fit the image within the div */
-    height: calc(100vh - 56px - 50px);
-    object-fit: cover; 
-
 /*recommendation page*/
 th{
     font-size: large;
