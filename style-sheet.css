@@ -52,11 +52,11 @@ body {
     text-align: center;
 }
 
-#indeximage{
+.responsive{
     margin: auto;
     width:100%;
     padding-top: 3%;
-    height:100%;
+    height:auto;
     
 }
 /*recommendation page*/
