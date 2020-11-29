@@ -42,7 +42,16 @@ body {
     font-size: 50px;
     font-family: Arial, Helvetica, sans-serif;
 }
+/*indexpage*/
+#break{
+    background-color: thistle;
+    Margin-top: 2%;
+}
 
+#Indeximage{
+    width: 100%;
+    margin-bottom: 3%; 
+}
 /*recommendation page*/
 th{
     font-size: large;
