@@ -41,12 +41,12 @@ body {
 }
 
 /*indexpage*/
-.Break2{
+#Break2{
     background-color: thistle;
     Padding-top: 30%;
 }
 
-.Indeximage{
+#Indeximage{
     width: 100%;
     Height:10%; 
     Padding-bottom: 3%;
