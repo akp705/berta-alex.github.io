@@ -123,6 +123,10 @@ h1 {
     margin-bottom: 10%;
 }
 
+.activities{
+    table-layout: fixed;
+}
+
 /*About page*/
 .column-about-us {
     float: left;
