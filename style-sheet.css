@@ -111,9 +111,13 @@ h1 {
 }
     
 /*Activities */
-.activities-images {
-    width: 120%; 
-    height: 120%;
+td { 
+    text-align: center;
+    padding-left: 15px;
+    width: 33.3%;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 15px;
+    vertical-align: top;
 }
 
 .column {
