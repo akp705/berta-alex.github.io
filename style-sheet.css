@@ -45,6 +45,17 @@ body {
     background-color: thistle;
     Padding-top: 30%;
 }
+
+#carouselExampleIndicators img {
+    width: 100%;  /* fit the image within the div */
+    /* FANCY ADVANCED CSS - calc():
+           calculates the height of the full page (100vh)
+           minus the height of the navbar (56px)
+           minus the height of the second-navbar (50px)
+      allocates this height to the carousel images, so that the carousel, navbar, and second-navbar can all fit on the page (regardless of screen size)
+   */
+    height: calc(100vh - 56px - 50px);
+    object-fit: cover; 
 /*
 #Indeximage{
     width: 100%;
