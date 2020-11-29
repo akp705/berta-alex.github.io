@@ -123,8 +123,9 @@ h1 {
     margin-bottom: 10%;
 }
 
-.activities{
+.table{
     table-layout: fixed;
+    width: 100%;
 }
 
 /*About page*/
