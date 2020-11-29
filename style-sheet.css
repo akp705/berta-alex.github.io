@@ -101,37 +101,6 @@ h1 {
     font-size: 50px;
     font-family: Arial, Helvetica, sans-serif;
 }
-
-/*Contact Form */
- /*Background to form*/
- .container1 {
-    border-radius: 10px;
-    padding-top: 5%;
-    padding-right: 10rem;
-    background-color: #9999cc;
-    padding: 20px;
-    align-items: center;
-  }
-
-  input[type=text], select, textarea {
-    width: 50%; 
-    padding: 12px; 
-    border: 1px solid #ccc; 
-    border-radius: 4px; 
-    box-sizing: border-box; 
-    margin-top: 6px; 
-    margin-bottom: 16px; 
-    resize: vertical 
-    
-  }
-    .button {
-        background-color: #4CAF50;
-        color: white;
-        padding: 12px 20px;
-        border: none;
-        border-radius: 4px;
-        cursor: pointer;
-    }
     
 /*Activities */
 .activities-images {
@@ -183,3 +152,33 @@ h1 {
     margin-left: 25%;
 }
 
+/*Contact Form */
+ /*Background to form*/
+ .container1 {
+    border-radius: 10px;
+    padding-top: 5%;
+    padding-right: 10rem;
+    background-color: #9999cc;
+    padding: 20px;
+    align-items: center;
+  }
+
+  input[type=text], select, textarea {
+    width: 50%; 
+    padding: 12px; 
+    border: 1px solid #ccc; 
+    border-radius: 4px; 
+    box-sizing: border-box; 
+    margin-top: 6px; 
+    margin-bottom: 16px; 
+    resize: vertical 
+    
+  }
+    .button {
+        background-color: #4CAF50;
+        color: white;
+        padding: 12px 20px;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+    }
