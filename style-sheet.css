@@ -52,12 +52,9 @@ body {
     text-align: center;
 }
 
-.responsive{
-    margin: auto;
+#responsive{
     width:100%;
-    padding-top: 3%;
     height:auto;
-    
 }
 /*recommendation page*/
 th{
