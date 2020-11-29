@@ -116,6 +116,11 @@ h1 {
     height: 150%;
 }
 
+#workout2 {
+    width: 80%;
+    height: 80%;
+}
+
 .column {
     float: left;
 
