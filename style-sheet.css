@@ -39,7 +39,8 @@ body {
     font-size: 50px;
     font-family: Arial, Helvetica, sans-serif;
 }
-
+/*index page*/
+<img src="./Images/Brighton pier.jpg" class="w3-border w3-padding" alt="Brighton Pier">
 /*recommendation page*/
 th{
     font-size: large;
