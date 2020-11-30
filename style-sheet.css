@@ -128,6 +128,15 @@ h1 {
     width: 100%;
 }
 
+#img-baking {
+    height: 200px;
+    width: 150px;
+}
+
+ul.td {
+    list-style-item: none;
+}
+
 /*About page*/
 .column-about-us {
     float: left;
