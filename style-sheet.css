@@ -146,6 +146,7 @@ h1 {
     box-sizing: border-box;
     border-radius: 50px;
     padding: 10px 10px 10px 10px;
+    margin: 0px 2px 0px 2px;
 }
 
 .name {
